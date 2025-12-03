@@ -1,0 +1,5 @@
+{
+  "name": "FireConvert - HTML to Markdown",
+  "description": "A modern tool to convert any webpage into clean Markdown using Firecrawl.",
+  "requestFramePermissions": []
+}
